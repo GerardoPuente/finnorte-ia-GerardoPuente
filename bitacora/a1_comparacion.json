@@ -1,0 +1,168 @@
+[
+  {
+    "pregunta": "mi transferencia se quedó pendiente, ¿cómo me entero cuando ya se liquidó?",
+    "tipo": "sinonimo",
+    "esperado": "api-05",
+    "vector_top3": [
+      "api-04",
+      "api-10",
+      "api-04"
+    ],
+    "palabras_top3": [
+      "api-04",
+      "api-04",
+      "api-05"
+    ]
+  },
+  {
+    "pregunta": "cuánto tiempo me sirve el token antes de que tenga que pedir otro",
+    "tipo": "sinonimo",
+    "esperado": "api-02",
+    "vector_top3": [
+      "api-02",
+      "api-06",
+      "api-10"
+    ],
+    "palabras_top3": [
+      "api-06",
+      "api-02",
+      "api-05"
+    ]
+  },
+  {
+    "pregunta": "si mando dos veces el mismo pago por error, ¿se duplica el cobro?",
+    "tipo": "sinonimo",
+    "esperado": "api-04",
+    "vector_top3": [
+      "api-05",
+      "api-07",
+      "api-06"
+    ],
+    "palabras_top3": [
+      "api-09",
+      "api-04",
+      "api-05"
+    ]
+  },
+  {
+    "pregunta": "¿qué significa el error FN-4011?",
+    "tipo": "exacto",
+    "esperado": "api-06",
+    "vector_top3": [
+      "api-06",
+      "api-11",
+      "api-10"
+    ],
+    "palabras_top3": [
+      "api-06",
+      "api-10",
+      "api-07"
+    ]
+  },
+  {
+    "pregunta": "¿para qué sirve el encabezado X-FinNorte-Signature?",
+    "tipo": "exacto",
+    "esperado": "api-05",
+    "vector_top3": [
+      "api-05",
+      "api-01",
+      "api-07"
+    ],
+    "palabras_top3": [
+      "api-05",
+      "api-09",
+      "api-07"
+    ]
+  },
+  {
+    "pregunta": "¿cómo hago pip install del SDK de Python de FinNorte?",
+    "tipo": "normal",
+    "esperado": "api-09",
+    "vector_top3": [
+      "api-01",
+      "api-05",
+      "api-09"
+    ],
+    "palabras_top3": [
+      "api-09",
+      "api-01",
+      "api-05"
+    ]
+  },
+  {
+    "pregunta": "¿qué ambientes tiene la API: sandbox y producción?",
+    "tipo": "normal",
+    "esperado": "api-01",
+    "vector_top3": [
+      "api-01",
+      "api-09",
+      "api-08"
+    ],
+    "palabras_top3": [
+      "api-01",
+      "api-11",
+      "api-10"
+    ]
+  },
+  {
+    "pregunta": "¿hasta cuántos días puedo consultar movimientos de una cuenta?",
+    "tipo": "normal",
+    "esperado": "api-03",
+    "vector_top3": [
+      "api-03",
+      "api-08",
+      "api-04"
+    ],
+    "palabras_top3": [
+      "api-03",
+      "api-08",
+      "api-09"
+    ]
+  },
+  {
+    "pregunta": "¿qué pasa si el monto en sandbox termina en 02?",
+    "tipo": "normal",
+    "esperado": "api-10",
+    "vector_top3": [
+      "api-10",
+      "api-08",
+      "api-04"
+    ],
+    "palabras_top3": [
+      "api-10",
+      "api-01",
+      "api-09"
+    ]
+  },
+  {
+    "pregunta": "¿hasta cuándo puedo seguir usando GET /v1/cuentas?",
+    "tipo": "normal",
+    "esperado": "api-08",
+    "vector_top3": [
+      "api-03",
+      "api-08",
+      "api-09"
+    ],
+    "palabras_top3": [
+      "api-03",
+      "api-08",
+      "api-04"
+    ]
+  },
+  {
+    "resumen": {
+      "vector": {
+        "acierto@1": 6,
+        "acierto@3": 8,
+        "n": 10
+      },
+      "palabras": {
+        "acierto@1": 6,
+        "acierto@3": 10,
+        "n": 10
+      }
+    },
+    "variante": "v3-soporte",
+    "embeddings": "hash"
+  }
+]

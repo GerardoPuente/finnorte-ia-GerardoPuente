@@ -1,0 +1,10 @@
+{"pregunta": "mi transferencia se quedó pendiente, ¿cómo me entero cuando ya se liquidó?", "esperado": "api-05", "tipo": "sinonimo"}
+{"pregunta": "cuánto tiempo me sirve el token antes de que tenga que pedir otro", "esperado": "api-02", "tipo": "sinonimo"}
+{"pregunta": "si mando dos veces el mismo pago por error, ¿se duplica el cobro?", "esperado": "api-04", "tipo": "sinonimo"}
+{"pregunta": "¿qué significa el error FN-4011?", "esperado": "api-06", "tipo": "exacto"}
+{"pregunta": "¿para qué sirve el encabezado X-FinNorte-Signature?", "esperado": "api-05", "tipo": "exacto"}
+{"pregunta": "¿cómo hago pip install del SDK de Python de FinNorte?", "esperado": "api-09", "tipo": "normal"}
+{"pregunta": "¿qué ambientes tiene la API: sandbox y producción?", "esperado": "api-01", "tipo": "normal"}
+{"pregunta": "¿hasta cuántos días puedo consultar movimientos de una cuenta?", "esperado": "api-03", "tipo": "normal"}
+{"pregunta": "¿qué pasa si el monto en sandbox termina en 02?", "esperado": "api-10", "tipo": "normal"}
+{"pregunta": "¿hasta cuándo puedo seguir usando GET /v1/cuentas?", "esperado": "api-08", "tipo": "normal"}
