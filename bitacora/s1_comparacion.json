@@ -3,9 +3,9 @@
     "pregunta": "¿Cada cuánto cambio las llaves de producción?",
     "esperado": "ing-02",
     "vector": [
-      "ing-03",
       "ing-02",
-      "ing-08"
+      "ing-02",
+      "ing-07"
     ],
     "palabras": [
       "ing-02",
@@ -17,9 +17,9 @@
     "pregunta": "subí una contraseña al repo por error",
     "esperado": "ing-02",
     "vector": [
-      "ing-07",
-      "ing-13",
-      "ing-06"
+      "ing-02",
+      "ing-02",
+      "ing-01"
     ],
     "palabras": [
       "ing-12"
@@ -29,8 +29,8 @@
     "pregunta": "¿cuántas personas tienen que aprobar mi PR de pagos?",
     "esperado": "ing-01",
     "vector": [
-      "ing-03",
-      "ing-14",
+      "ing-01",
+      "ing-01",
       "ing-03"
     ],
     "palabras": [
@@ -43,9 +43,9 @@
     "pregunta": "¿puedo liberar el día de quincena?",
     "esperado": "ing-03",
     "vector": [
-      "ing-06",
       "ing-14",
-      "ing-02"
+      "ing-03",
+      "ing-03"
     ],
     "palabras": [
       "ing-14",
@@ -57,9 +57,9 @@
     "pregunta": "se cayó transferencias para todos, ¿en cuánto respondo?",
     "esperado": "ing-05",
     "vector": [
-      "ing-13",
       "ing-05",
-      "ing-15"
+      "ing-12",
+      "ing-13"
     ],
     "palabras": [
       "ing-05",
@@ -71,7 +71,7 @@
     "pregunta": "¿cómo devuelvo los errores de mi servicio REST?",
     "esperado": "ing-07",
     "vector": [
-      "ing-02",
+      "ing-07",
       "ing-12",
       "ing-12"
     ],
@@ -99,9 +99,9 @@
     "pregunta": "una librería tiene un CVE crítico",
     "esperado": "ing-09",
     "vector": [
-      "ing-05",
-      "ing-13",
-      "ing-10"
+      "ing-09",
+      "ing-02",
+      "ing-05"
     ],
     "palabras": [
       "ing-10",
@@ -112,9 +112,9 @@
     "pregunta": "necesito entrar a la base de datos productiva",
     "esperado": "ing-10",
     "vector": [
-      "ing-08",
-      "ing-02",
-      "ing-03"
+      "ing-10",
+      "ing-04",
+      "ing-04"
     ],
     "palabras": [
       "ing-08",
@@ -127,7 +127,7 @@
     "esperado": "ing-12",
     "vector": [
       "ing-12",
-      "ing-13",
+      "ing-07",
       "ing-07"
     ],
     "palabras": [
