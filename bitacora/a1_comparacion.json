@@ -5,8 +5,8 @@
     "esperado": "api-05",
     "vector_top3": [
       "api-04",
-      "api-10",
-      "api-04"
+      "api-04",
+      "api-05"
     ],
     "palabras_top3": [
       "api-04",
@@ -20,8 +20,8 @@
     "esperado": "api-02",
     "vector_top3": [
       "api-02",
-      "api-06",
-      "api-10"
+      "api-07",
+      "api-11"
     ],
     "palabras_top3": [
       "api-06",
@@ -34,9 +34,9 @@
     "tipo": "sinonimo",
     "esperado": "api-04",
     "vector_top3": [
-      "api-05",
+      "api-04",
       "api-07",
-      "api-06"
+      "api-04"
     ],
     "palabras_top3": [
       "api-09",
@@ -50,7 +50,7 @@
     "esperado": "api-06",
     "vector_top3": [
       "api-06",
-      "api-11",
+      "api-07",
       "api-10"
     ],
     "palabras_top3": [
@@ -66,7 +66,7 @@
     "vector_top3": [
       "api-05",
       "api-01",
-      "api-07"
+      "api-09"
     ],
     "palabras_top3": [
       "api-05",
@@ -79,9 +79,9 @@
     "tipo": "normal",
     "esperado": "api-09",
     "vector_top3": [
+      "api-09",
       "api-01",
-      "api-05",
-      "api-09"
+      "api-05"
     ],
     "palabras_top3": [
       "api-09",
@@ -95,8 +95,8 @@
     "esperado": "api-01",
     "vector_top3": [
       "api-01",
-      "api-09",
-      "api-08"
+      "api-08",
+      "api-10"
     ],
     "palabras_top3": [
       "api-01",
@@ -111,7 +111,7 @@
     "vector_top3": [
       "api-03",
       "api-08",
-      "api-04"
+      "api-02"
     ],
     "palabras_top3": [
       "api-03",
@@ -125,8 +125,8 @@
     "esperado": "api-10",
     "vector_top3": [
       "api-10",
-      "api-08",
-      "api-04"
+      "api-01",
+      "api-03"
     ],
     "palabras_top3": [
       "api-10",
@@ -139,9 +139,9 @@
     "tipo": "normal",
     "esperado": "api-08",
     "vector_top3": [
-      "api-03",
       "api-08",
-      "api-09"
+      "api-03",
+      "api-02"
     ],
     "palabras_top3": [
       "api-03",
@@ -152,8 +152,8 @@
   {
     "resumen": {
       "vector": {
-        "acierto@1": 6,
-        "acierto@3": 8,
+        "acierto@1": 9,
+        "acierto@3": 10,
         "n": 10
       },
       "palabras": {
@@ -163,6 +163,6 @@
       }
     },
     "variante": "v3-soporte",
-    "embeddings": "hash"
+    "embeddings": "gemini"
   }
 ]
